@@ -1,3 +1,9 @@
+Paper: [MoRI: Learning Motivation-Grounded Reasoning for Scientific Ideation in Large Language Models](https://arxiv.org/abs/2603.19044)
+
+Accepted to ACL 2026 Main Conference 🎉🎉
+
+---
+
 <div align="center">
  👋 Hi, everyone! 
     verl is a RL training library initiated by <b>ByteDance Seed team</b> and maintained by the verl community.
